@@ -77,17 +77,6 @@ Demonstrates:
 
 * Converting float values into integers using explicit type casting
 
-## Concepts Learned
-
-✔ Variables and Data Types
-✔ Format Specifiers
-✔ Arithmetic Operators
-✔ Modulus Operator
-✔ Type Casting
-✔ Type Demotion
-✔ Operator Precedence
-✔ Basic C Syntax
-
 ## Technologies Used
 
 * C Programming Language
